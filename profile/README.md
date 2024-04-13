@@ -1,2 +1,2 @@
-![](../assets/wallpaper.png)
+![](./assets/wallpaper.png)
 
