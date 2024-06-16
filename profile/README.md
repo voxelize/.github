@@ -1,2 +1,2 @@
-![](./assets/astronaut.png)
+![](../assets/astronaut.png)
 
